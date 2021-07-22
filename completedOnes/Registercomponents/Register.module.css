@@ -1,0 +1,74 @@
+
+.banner{
+  background-image: url('https://static.naukri.com/s/5/104/i/backImg_v1.jpg');
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.banner span+span{
+  display: block;
+  background: white;
+  height: 2px;
+} 
+.banner>div{
+  margin: 0 20px;
+  cursor: pointer;
+}
+.personal>div{
+  display: flex;
+  height: 30px;
+  width: 70%;
+  margin: 40px 0;
+  color:rgb(46, 38, 38);
+}
+.personal>div>p{
+  width: 200px;
+  text-align: end;
+  padding: 0 20px;
+  margin-top:-2px;
+}
+.personal>div input{
+  border: 1px solid #DFDFDF;
+  padding: 10px;
+  width: 100%;
+  font-size: 100%;
+}
+.personal>div:nth-child(9){
+  background:rgb(39,167,212);
+  color: white;
+  cursor: pointer;
+  width: 200px;
+  margin:0  300px;;
+  padding: 5px;
+}
+.personal>div:nth-child(9) span{
+  display: block;
+  width: fit-content;
+  margin: auto;
+}
+.personal input[type="checkbox"]{
+padding: 0 !important;
+}
+
+.continue{
+  background:rgb(39,167,212);
+  color: white !important;
+  cursor: pointer;
+  width: 200px;
+  margin:0  300px;
+  padding: 5px;
+}
+.continue span{
+  display: block;
+  width: fit-content;
+  margin: auto;
+}
+.education input{
+  width:500px !important;
+}
+.education{
+  width: 40%;
+  margin :auto;
+}
