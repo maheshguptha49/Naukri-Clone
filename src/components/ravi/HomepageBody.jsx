@@ -8,14 +8,16 @@ import styled from 'styled-components';
 export default function HomepageBody() {
              const Main = styled.div`
     display:flex;
+  
   `
   const BodyMain = styled.div`
-  width:90vw;
+  width:98vw;
+  
   `
     return (
 
         <div>
-            <BodyMain>
+      <BodyMain>
       <Companies />
       <Main>
       <Employers/>
