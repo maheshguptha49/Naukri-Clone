@@ -1,0 +1,92 @@
+.banner {
+  background-image: url("https://static.naukri.com/s/5/104/i/backImg_v1.jpg");
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.education {
+  margin-right: -1000px !important;
+}
+.banner span + span {
+  display: block;
+  background: white;
+  height: 2px;
+}
+.banner > div {
+  margin: 0 20px;
+  cursor: pointer;
+}
+.personal {
+  margin-left: 200px !important;
+}
+.personal > div {
+  display: flex;
+  height: 30px;
+  width: 70%;
+  margin: 40px 0;
+  color: rgb(46, 38, 38);
+}
+.personal > div > p {
+  width: 300px;
+  text-align: end;
+  padding: 0 20px;
+  margin-top: -2px;
+}
+.personal > div input {
+  border: 1px solid #dfdfdf;
+  padding: 10px;
+  font-size: 100%;
+  width: 450px;
+}
+.personal > div {
+  width: 100% !important;
+}
+.personal > div:nth-child(9) {
+  background: rgb(39, 167, 212);
+  color: white;
+  cursor: pointer;
+  width: 200px !important;
+  margin: auto;
+  padding: 5px;
+}
+.personal > div:nth-child(9) span {
+  display: block;
+  width: fit-content;
+  margin: auto;
+}
+.personal input[type="checkbox"] {
+  padding: 0 !important;
+}
+
+.continue {
+  color: white !important;
+  cursor: pointer;
+  width: 200px !important;
+  /* margin: 0 300px; */
+}
+.continue span {
+  background: rgb(39, 167, 212);
+  padding: 5px;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+}
+.education input {
+  width: 500px !important;
+}
+.education {
+  width: 40%;
+  margin: auto;
+}
+.personal > div > p > span {
+  color: red;
+}
+.personal {
+  margin: auto !important;
+}
+.personal + div {
+  margin-right: 300px;
+}
