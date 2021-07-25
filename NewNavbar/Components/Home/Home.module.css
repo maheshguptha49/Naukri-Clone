@@ -1,0 +1,33 @@
+
+
+.navBar{
+    display: grid;
+    grid-template-columns:10%  10% 20% 20% 25% 5%;
+    grid-template-rows: auto;
+    grid-gap:1em;
+    background-color:aqua;
+     position: fixed;
+  top: 0;
+  width: 100%;
+
+
+}
+
+.homeProduct ul li{
+     display: inline-block;
+     padding:5px;
+}
+.image{
+    padding-top: 18px;
+}
+.cart {
+    margin-left: -20px;
+    padding-top: 15px;
+    
+}
+.cart a{
+    margin-left: 10px;
+}
+.callSection{
+    padding-top: 5px;
+}

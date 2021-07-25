@@ -1,0 +1,63 @@
+/* .container{
+    width:75%;
+    height:30vh;
+    background-color: rgb(15, 180, 180);
+    margin-left: 2%;
+    margin-top: -8%;
+    border-radius:10px;
+    
+
+} */
+.container{
+    display: grid;
+    grid-template-columns: 74% 25%;
+    grid-template-rows: auto;
+    grid-gap:0px;
+    margin-left: 2%;
+    margin-top: -8%;
+    height:35vh;
+     
+     
+}
+.container div{
+    padding-left: 3em;
+    padding-top: 2em;
+    background-color: rgb(252, 252, 252);
+    border-radius:10px;
+    border:1px solid rgb(241, 239, 239);
+}
+
+.InputBox input{
+    width:300px;
+    height:40px;
+    margin:5px;
+
+}
+.InputBox button{
+    height:40px;
+    width:150px;
+    background-color: aqua;
+}
+h2{
+    margin-top:-7px;
+    color:rgb(17, 6, 173);
+}
+
+.SmallDiv h4 {
+    color:rgb(144,123,96);
+
+    margin-top:-10px;
+}
+.SmallDiv button{
+    background-color:orange;
+    width:150px;
+    height:35px;
+    display: inline;
+    border: none;
+    border-radius:3px;
+}
+.SmallDiv input{
+    border: none;
+     
+    text-decoration: none;
+}
