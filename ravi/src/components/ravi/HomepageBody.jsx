@@ -10,6 +10,7 @@ const BodyMain = styled.div`
 `;
 const Main = styled.div`
   display: flex;
+  
 `;
 export default function HomepageBody() {
   return (

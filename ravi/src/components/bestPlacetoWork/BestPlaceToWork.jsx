@@ -14,9 +14,8 @@ export default function BestPlaceToWork() {
     const [serv, setServ] = useState(false)
     
     const MainDiv = styled.div`
-        border: 2px solid black;     
-       
-    `
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    `;
 
     const FlexDiv = styled.div`
         display:flex;
@@ -24,16 +23,16 @@ export default function BestPlaceToWork() {
     `
     
     const BestPlace = styled.div`
-    border:1px solid black;
-    min-width:1000px;
-   
-    > div{
-        border: 1px solid black;       
-    }
-    p{
-        color:teal;
-    }
-    `
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      min-width: 1000px;
+
+      > div {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      }
+      p {
+        color: teal;
+      }
+    `;
     
     const handleAll = () => {
         setAll(true);
