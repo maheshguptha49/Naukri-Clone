@@ -6,7 +6,7 @@ import styled from "styled-components";
 
 const BodyMain = styled.div`
   width: 90vw;
- border:1px dashed black;
+ 
 `;
 const Main = styled.div`
   display: flex;
