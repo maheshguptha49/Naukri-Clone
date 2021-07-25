@@ -1,2 +1,2 @@
-# Naukri-Clone
-Naukri clone with react
+# sandbox101
+Created with CodeSandbox
