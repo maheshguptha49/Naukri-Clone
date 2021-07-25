@@ -7,7 +7,8 @@ export default function Employers() {
     flex-direction: column;
     justify-content: space-around;
     padding:2.5rem;
-    height:100%
+   height:100%
+   
     `
     return (
         <div>
@@ -19,6 +20,8 @@ export default function Employers() {
             <img src="em-oracle.gif" alt="" />
             <img src="em-techmahindra.gif" alt="" />
             <img src="em-virtusa.gif" alt="" />
+            <img src="em-infosys.gif" alt="" />
+            <img src="em-alianz.gif" alt="" />
             </EmployCss>
             
         </div>
