@@ -1,9 +1,10 @@
-# sandbox101
-Created with CodeSandbox
-sandbox link https://6v6lb.csb.app/ you can open this link its live there
-#NaukriClone
 
-This is a working clone of the StartEngine website, this project has been done in order to learn the basic working of a website by implementing HTML5, CSS3, JavaScript, ES6, JSON, JS DOM and React(Components). Working on this project helps to learn a lot of new things that goes into building a website. This is our collaborative project under the guidance of MASAI Team to facilitate the full stack web development curriculam. 
+Created with CodeSandbox
+sandbox link https://6v6lb.csb.app/ you can open this link our site is live there site is built in 4 days with a team of 3
+
+# NaukriClone
+
+This is a working clone of the Naukri.com website, this project has been done in order to learn the basic working of a website by implementing HTML5, CSS3, JavaScript, ES6, JSON, JS DOM and React(Components). Working on this project helps to learn a lot of new things that goes into building a website. This is our collaborative project under the guidance of MASAI Team to facilitate the full stack web development curriculam.  
 
 ## Uses
 
