@@ -55,10 +55,30 @@ We can sign in login search jobs.
 * styled-components
 * react-owl-carousel3
 
-## search functionality image in our site 
+## Image of search functionality in our site 
 <p align="center">
- 
   <img src="https://raw.githubusercontent.com/maheshguptha49/Naukri-Clone/main/SitePictures/Screenshot%20(232).png?raw=true" alt="Naukri clone">
 </p>
+
+## Image of google login functionality in our site 
+<p align="center">
+  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(233).png?raw=true" alt="Naukri clone">
+</p>
+
+## Image of Registration functionality in our site 
+<p align="center">
+  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(235).png?raw=true" alt="Naukri clone">
+</p>
+
+## Image of Profile with profile pic functionality in our site 
+<p align="center">
+  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(236).png?raw=true" alt="Naukri clone">
+</p>
+
+## Image of Profile with Jobs application functionality in our site 
+<p align="center">
+  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(237).png?raw=true" alt="Naukri clone">
+</p>
+
 ## Note:
 All the images and icon links have been taken from main website and some other internet sources and may be subject to copyright so try not to use the images or icons for business purposes or reproduce them without their approval on the owner of the images and icons used here are just for the making this project and for learning purpose.
