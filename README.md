@@ -75,7 +75,12 @@ We can sign in login search jobs.
   <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(236).png?raw=true" alt="Naukri clone">
 </p>
 
-## Image of Profile with Jobs application functionality in our site 
+## Image of Jobs list functionality in our site 
+<p align="center">
+  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(238).png?raw=true" alt="Naukri clone">
+</p>
+
+## Image of Job application functionality in our site 
 <p align="center">
   <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(237).png?raw=true" alt="Naukri clone">
 </p>
