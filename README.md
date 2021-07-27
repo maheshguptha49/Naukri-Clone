@@ -85,5 +85,7 @@ We can sign in login search jobs.
   <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(237).png?raw=true" alt="Naukri clone">
 </p>
 
+## Thank you for reading the whole file :)
+
 ## Note:
 All the images and icon links have been taken from main website and some other internet sources and may be subject to copyright so try not to use the images or icons for business purposes or reproduce them without their approval on the owner of the images and icons used here are just for the making this project and for learning purpose.
