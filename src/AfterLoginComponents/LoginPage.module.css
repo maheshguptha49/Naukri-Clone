@@ -1,0 +1,375 @@
+.upper {
+  background-image: url("https://wallpaperaccess.com/full/2761806.jpg");
+  background-position: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.applyDiv {
+  margin-right: 20px;
+  align-items: flex-start;
+}
+.apply {
+  background: rgb(74, 144, 226);
+  color: white;
+  cursor: pointer;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  margin: 0 !important;
+}
+.image {
+  padding-top: 10px;
+}
+
+.inputBox {
+  margin-left: 18%;
+  display: flex;
+}
+.inputBox > div {
+  margin-top: 100px;
+}
+.inputBox > div > div {
+  width: 400px;
+  background-color: #fff;
+  /* background: red; */
+  box-shadow: 0 1px 4px 0 rgba(0, 106, 194, 0.2);
+  border: 1px solid #ebf0f6;
+  border-radius: 2px;
+  z-index: 2;
+  position: absolute;
+}
+.inputBox > div > div > div {
+  padding: 5px 5px 0 15px;
+  line-height: 25px;
+  cursor: pointer;
+}
+.inputBox > div > div > div:hover {
+  background: #f4f5f7;
+}
+.inputBox button {
+  margin-top: 100px;
+  height: 40px;
+  width: 130px;
+  background-color: rgb(74, 144, 226);
+  color: white;
+  font-size: 13px;
+  border: none;
+}
+.inputBox input {
+  width: 400px;
+  height: 40px;
+  padding-left: 10px;
+  border: none;
+}
+.parent {
+  display: grid;
+  grid-template-columns: 10% 55% 25% 10%;
+  grid-template-rows: auto auto auto auto;
+}
+.card h3 {
+  margin-left: 10px;
+}
+.image img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+/* First card of left row */
+
+.winner {
+  margin-top: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+  height: 250px;
+  padding-left: 10px;
+}
+.winner img {
+  width: 80px;
+  height: 50px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.winner button {
+  float: right;
+  margin-right: 100px;
+  margin-top: 20px;
+  background-color: rgb(2, 111, 236);
+  color: white;
+  border: none;
+  width: 150px;
+  height: 35px;
+}
+
+/* 2nd card of left side row */
+
+.image {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+  padding-left: 10px;
+
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  text-indent: 1ch;
+  font-weight: normal;
+  font-size: 15px;
+}
+.image a {
+  float: right;
+  margin-right: 15px;
+  margin-top: 10px;
+  text-decoration: none;
+}
+.aplication {
+  display: grid;
+  grid-template-columns: 50% 45%;
+  grid-gap: 5%;
+}
+.aplication div {
+  margin-top: 30px;
+  padding-left: 20px;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  height: 200px;
+}
+.aplication a {
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.recruiter {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 180px;
+  width: 100%;
+  padding-left: 10px;
+  font-family: sans-serif;
+}
+.recruiter a {
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.connection {
+  display: grid;
+  grid-template-columns: 10% 20% 70%;
+
+  padding-left: 10px;
+  font-family: sans-serif;
+}
+.cont {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 230px;
+  width: 100%;
+  margin-top: 30px;
+}
+.cont a {
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.but button {
+  background-color: rgb(0, 153, 255);
+  border: none;
+  width: 200px;
+  height: 40px;
+  color: rgb(250, 250, 250);
+  cursor: pointer;
+}
+
+.box {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 350px;
+  width: 100%;
+}
+.buttom a {
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.buttom {
+  display: grid;
+  grid-template-columns: 20% 30% 25% 25%;
+  grid-template:
+    "a b c d"
+    "c d e f";
+}
+.buttom img {
+  width: 50px;
+  height: 50px;
+  margin-left: 50px;
+  margin-top: 25px;
+
+  border-radius: 50px;
+}
+.ancer a {
+  text-align: center;
+  text-decoration: none;
+
+  float: right;
+  margin-right: 30px;
+  margin-top: 50px;
+}
+
+.buttom button {
+  margin-top: 40px;
+  width: 150px;
+  height: 40px;
+  background-color: rgb(0, 83, 192);
+  color: white;
+  cursor: pointer;
+}
+
+/* Profile Paart ========>>>>>>>> */
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.ProfileCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  height: 480px;
+  width: 100%;
+  margin-top: -168px;
+  text-align: center;
+}
+.ProfileCard img {
+  width: 100px;
+  height: 100px;
+
+  border-radius: 50%;
+  margin-top: -50px;
+}
+.performance a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+.bar {
+  width: 80%;
+  height: 8px;
+  background-color: rgb(0, 89, 255);
+  border-radius: 10px;
+}
+.bar1 {
+  width: 90%;
+  height: 8px;
+  background-color: rgb(250, 250, 250);
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.details p {
+  float: left;
+  margin-left: 5px;
+}
+.details a {
+  float: right;
+  margin-top: 15px;
+  margin-right: 12px;
+  text-decoration: none;
+}
+#but button {
+  margin-bottom: 10px;
+  width: 300px;
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: rgb(2, 111, 236);
+}
+.twoBox {
+  display: grid;
+  grid-template-columns: 48% 45%;
+
+  grid-gap: 5px;
+  margin-top: 20px;
+}
+.twoBox div {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 10px;
+  height: 80px;
+  width: 100%;
+  border-radius: 8px;
+}
+.twoBox p {
+  color: rgb(43, 43, 221);
+}
+.last {
+  background-color: rgb(201, 196, 196);
+  margin-top: 10px;
+  height: 33px;
+}
+
+/* Card 2nd of right Row */
+
+.TopCompanies {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 650px;
+  margin-top: 30px;
+}
+.TopCompanies img {
+  margin-left: 5px;
+  width: 100px;
+  height: 40px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+#tag a {
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.IDC {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.IDC a {
+  margin: 8px;
+  text-decoration: none;
+}
+
+/* Card 3rd of right Row */
+
+.thirdCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 500px;
+  margin-top: 30px;
+}
+.thirdCard img {
+  width: 150px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 12px;
+}
+.thirdCard div {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+.thirdCard a {
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+/* Fourth Card  right row==>>>>>>>>>>>>>>>> */
+
+.fourthCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 130px;
+  margin-top: 30px;
+}
+.fourthCard h3 {
+  margin: 8px;
+}
+.fourthCard p {
+  margin: 8px;
+}
