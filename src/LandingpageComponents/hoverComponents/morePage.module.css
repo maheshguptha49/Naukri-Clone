@@ -1,0 +1,38 @@
+.morePage {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-column-gap: 5%;
+}
+.morePage p {
+  font-size: 15px;
+  font-size: 13px;
+}
+
+.morePage div {
+  padding-left: 1em;
+}
+
+.jobs {
+  display: flex;
+}
+.jobs div {
+  height: auto;
+  width: 200px;
+}
+.jobs p {
+  text-indent: 0%;
+  font-size: 13px;
+  cursor: pointer;
+  padding-left: 1em;
+}
+.jobs p:hover {
+  color: rgb(34, 34, 135);
+}
+
+.cursorclass p:hover {
+  color: rgb(34, 34, 135);
+}
+.cursorclass p {
+  cursor: pointer;
+}

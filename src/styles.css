@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+body {
+  overflow-x: hidden;
+}
+* {
+  /* color: #666; */
+}
+input {
+  outline: none;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+.owl-prev{
+  display: none;
+}
+
+.owl-next{
+  display: none;
+}

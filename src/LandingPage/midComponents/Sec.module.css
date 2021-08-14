@@ -1,0 +1,21 @@
+.Parent {
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+  grid-template-rows: auto auto auto;
+  grid-gap: 1.2em;
+}
+.Parent p {
+  margin-left: 20px;
+  cursor: pointer;
+  font-size: 13px;
+  color: grey;
+}
+.Parent h3 {
+  margin-left: 20px;
+}
+.Parent p:hover {
+  color: rgb(37, 146, 236);
+}
+.Parent h5:nth-child(1) {
+  margin-left: 10px;
+}

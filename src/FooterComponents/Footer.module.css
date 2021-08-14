@@ -1,0 +1,57 @@
+.stores img {
+  width: 100px;
+}
+.stores > img:nth-child(2) {
+  margin-left: 0;
+}
+.socials img {
+  width: 25px;
+  padding: 0 5px;
+}
+.main {
+  background: rgb(46, 51, 57);
+  color: rgb(238, 234, 226);
+  display: flex;
+  padding: 0 5%;
+  justify-content: center;
+}
+.main > div {
+  margin: 0 25px;
+}
+
+.main1 > div:nth-child(2) > div > div > div {
+  max-width: 150px !important;
+}
+
+.main1 {
+  display: flex;
+  height: 80px;
+  width: 80% !important;
+  margin: 0 10%;
+}
+.main1 p {
+  min-width: 200px !important;
+  font-weight: 550;
+  font-size: 120%;
+}
+.main1 button {
+  display: none !important;
+}
+.last {
+  /* position: fixed; */
+  margin-top: 150px;
+  background: rgb(226, 226, 226);
+  text-align: center;
+}
+.last > div {
+  width: fit-content;
+  background-color: rgb(188, 188, 188);
+  margin: auto;
+}
+@media all and (max-width: 620px) {
+  .main {
+    width: 80% !important;
+    font-size: 80%;
+    flex-wrap: wrap;
+  }
+}
